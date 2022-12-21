@@ -1,2 +1,0 @@
-# DataStructuresAndAlgorithms
- CourseExercises
