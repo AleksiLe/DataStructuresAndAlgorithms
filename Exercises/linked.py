@@ -1,13 +1,9 @@
-#Single node
-
-class Node:
-  # constructor
+class Node: #Single node
   def __init__(self, data = None, next=None): 
     self.data = data
     self.next = next
 
-# single head node
-class LinkedList:
+class LinkedList: 
     def __init__(self):  
         self.head = None
         self.len = 0
